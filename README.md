@@ -22,4 +22,4 @@ Hi there :wave:, My name is Marcos Renann
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrenann&layout=compact" alt="mrenann" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrenann&show_icons=true" alt="mrenann" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrenann&show_icons=true" alt="mrenann" /></p>
