@@ -10,5 +10,3 @@ Hi there 👋, My name is Marcos Renann
 
 > 🔭 I’m currently working on my Own WatchingList with VUE JS <br/>
  🌱 I’m currently learning Kotlin 
-
-<hr/>
