@@ -17,7 +17,3 @@ Hi there :wave:, My name is Marcos Renann
 > 🔭 I’m currently working on **My Own WatchingList with VUE Js** <br/>
 🌱 I’m currently learning **Kotlin** <br/>
 📫 How to reach me **marcos.renann.br@gmail.com**
-
-<hr/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrenann&layout=compact" alt="mrenann" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mrenann&show_icons=true" alt="mrenann" /></p>
