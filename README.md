@@ -85,8 +85,7 @@ Currently doing Computer Science at UFCA (Universidade Federal do Cari</div>
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=mrenann&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrenann&hide_border=true&layout=compact" align="right" /></div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrenann&hide_border=true&layout=compact" align="right" />
 
 <br/>  
 
