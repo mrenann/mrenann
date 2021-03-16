@@ -90,14 +90,5 @@ Currently doing Computer Science at UFCA (Universidade Federal do Cari</div>
 
 <br/>  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mrenann&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 
 <br />
