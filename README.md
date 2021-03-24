@@ -1,5 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%;height:20%" />
+<div>
+<img align="center"  src="./ezgif.com-gif-maker.gif" align="center" width="100%" />
 </div>  
   
 
@@ -84,8 +84,8 @@ Currently doing Computer Science at UFCA (Universidade Federal do Cari</div>
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=mrenann&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrenann&hide_border=true&layout=compact" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=mrenann&show_icons=true&count_private=true&hide_border=true" align="left" width="49%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrenann&hide_border=true&layout=compact" align="right" width="40%" />
 
 <br/>  
 
