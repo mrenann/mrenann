@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Marcos Renann,  19 Years Old
-Currently doing Computer Science at UFCA (Universidade Federal do Cari</div>  
+Currently doing Computer Science at UFCA ( Universidade Federal do Cariri )</div>  
   
 
 - 🔭 I’m currently working on My Own WatchingListWebsite with VUE Js and a App with Kotlin  
