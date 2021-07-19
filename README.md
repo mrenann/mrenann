@@ -75,10 +75,10 @@ Currently doing Computer Science at UFCA ( Universidade Federal do Cariri )</div
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/marcos_renann" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23c92879.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  <a href="mailto:marcos.renann.br@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="mailto:marcos.renann.br@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23c92828.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
   
