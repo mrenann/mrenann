@@ -13,7 +13,7 @@ Currently doing Computer Science at UFCA ( Universidade Federal do Cariri )</div
 - 🌱 I’m currently learning Kotlin  
   
 
-- 📫 How to reach me marcos.renann.br@gmail.com  
+- 📫 How to reach me : marcos.renann.br@gmail.com  
   
 
 <br/>  
@@ -77,6 +77,9 @@ Currently doing Computer Science at UFCA ( Universidade Federal do Cariri )</div
 <a href="https://instagram.com/marcos_renann" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+  <a href="mailto:marcos.renann.br@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
