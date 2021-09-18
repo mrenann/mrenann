@@ -6,16 +6,13 @@
   
 ### <div align="center">I'm Marcos Renann,  20 Years Old
 Currently doing Computer Science at UFCA ( Universidade Federal do Cariri ) </div>  
-  
 
-- 🔭 I’m currently working on My Own WatchingListWebsite with VUE Js and a App with Kotlin  
-  
 
-- 🌱 I’m currently learning Kotlin  
-  
+  | 🔭 I’m currently working on My Own WatchingListWebsite with VUE Js and a App with Kotlin  |
+  | ------------------- |
+  | 🌱 I’m currently learning Kotlin |
+  | 📫 How to reach me : marcos.renann.br@gmail.com  |
 
-- 📫 How to reach me : marcos.renann.br@gmail.com  
-  
 
 <br/>  
 
