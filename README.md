@@ -4,8 +4,8 @@
   
   
   
-### <div align="center">I'm Marcos Renann,  20 Years Old
-Currently doing Computer Science at UFCA ( Universidade Federal do Cariri ) </div>  
+### <div align="center">I'm Marcos Renann,  20 Years Old 
+<p align="center"> <br/>Currently doing Computer Science at UFCA ( Universidade Federal do Cariri ) </p> </div>  
 
 <div align="center">
   🔭 I’m currently working on My Own WatchingListWebsite with VUE Js and a App with Kotlin  </br>
