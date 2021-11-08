@@ -2,8 +2,6 @@
 <img align="center"  src="./ezgif.com-gif-maker.gif" align="center" width="100%" />
 </div>  
   
-  
-  
 ### <div align="center">I'm Marcos Renann,  20 Years Old 
 <p align="center"> <br/>Currently doing Computer Science at UFCA ( Universidade Federal do Cariri ) </p> </div>  
 
@@ -15,7 +13,6 @@
 
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -76,12 +73,10 @@
 
 <br/>  
 
-
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=mrenann&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="left" width="49%" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrenann&hide_border=true&layout=compact&theme=midnight-purple" align="right" width="40%" />
 
 <br/>  
-
 
 <br />
