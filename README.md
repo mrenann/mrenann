@@ -7,7 +7,7 @@
 <div align="center">
   🔭 I’m currently working on My Own WatchingListWebsite with VUE Js and a App with Kotlin using Compose  </br>
   📫 How to reach me : marcos.renann.br@gmail.com  </br>
-  🌱 I’m currently learning Kotlin  </br>
+  🌱 I’m currently learning Kotlin and Android  </br>
 </div>  
 
 
