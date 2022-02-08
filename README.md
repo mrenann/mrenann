@@ -11,7 +11,6 @@
   🌱 I’m currently learning Kotlin and Android  </br>
 </div>  
 
-
 <br/>
 
 ## My Skill Set  
