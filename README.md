@@ -9,7 +9,6 @@
   📫 How to reach me : marcos.renann.br@gmail.com  </br>
   🌱 I’m currently learning Kotlin and Android  </br>
 </div>  
-
 <br/>
 
 ## My Skill Set  
