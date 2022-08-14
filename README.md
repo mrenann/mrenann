@@ -11,8 +11,8 @@
 internal fun AboutMe() {
 	val name = "Marcos Renann"
 	val age = 21
-	val currentEdu = "Computer Science at UFCA"
-	val currentWork = "Android developer at Stone"
+	val studying = "Computer Science at UFCA"
+	val work = "Android developer at Stone"
 }
 ```
 
