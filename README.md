@@ -36,20 +36,13 @@ internal fun AboutMe() {
 
 <h2 align="center">Connect with Me</h2>
 
-<div align="center">
-<a href="https://github.com/mrenann" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/marcos-renann" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/marcos_renann" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23c92879.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-<a href="mailto:marcos.renann.br@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23c92828.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
+<p align="center">
+<a href="mailto:marcos.renann.br@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+<a href="https://github.com/mrenann"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/marcos-renann"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://instagram.com/marcos_renann"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
+
 
 <h2 align="center">GitHub Stats</h2>
 
