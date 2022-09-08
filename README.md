@@ -7,7 +7,6 @@
 
 
 ```kotlin
-@Composable  
 internal fun AboutMe() {
 	val name = "Marcos Renann"
 	val age = 21
