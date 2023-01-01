@@ -1,5 +1,5 @@
 
-<img src="./ezgif.com-gif-maker.gif">
+<img src="./gifs/output-onlinegiftools.gif">
 
 <h2 align="center">About Me</h2>
 
