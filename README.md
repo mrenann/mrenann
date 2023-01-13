@@ -42,8 +42,9 @@ internal fun AboutMe() {
 <a href="https://instagram.com/marcos_renann"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-
+<!--
 <h2 align="center">GitHub Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mrenann&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="left" width="49%" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrenann&hide_border=true&layout=compact&theme=midnight-purple" align="right" width="40%" />
+-->
