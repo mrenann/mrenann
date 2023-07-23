@@ -9,9 +9,9 @@
 ```kotlin
 internal fun AboutMe() {
 	val name = "Marcos Renann"
-	val age = 21
+	val age = 22
 	val studying = "Computer Science at UFCA"
-	val work = "Android developer at Stone"
+	val work = "Android developer"
 }
 ```
 
