@@ -10,7 +10,8 @@
 internal fun AboutMe() {
 	val name = "Marcos Renann"
 	val age = 22
-	val studying = "Computer Science at UFCA"
+	val studying = "KMP and Compose Multiplatform s2"
+	val graduating = "Computer Science at UFCA"
 	val work = "Android developer"
 }
 ```
