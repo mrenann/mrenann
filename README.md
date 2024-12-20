@@ -9,7 +9,7 @@
 ```kotlin
 internal fun AboutMe() {
 	val name = "Marcos Renann"
-	val age = 22
+	val age = 23
 	val studying = "KMP and Compose Multiplatform"
 	val graduated2023 = "Computer Science at UFCA"
 	val work = "Android / Mobile developer"
@@ -20,20 +20,18 @@ internal fun AboutMe() {
 
 <img align="right" height="150px" width="150px" src="./gifs/bonefire.gif">
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/2c87165d-ca47-44ed-b704-95487f5a3270"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/87e1a99f-ecfb-4dcc-befc-695f41b23ff1"></code>
+
 #
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-<code><img height="40" width="40" src="https://camo.githubusercontent.com/518977ed5e52020624daf41cf644046368af610f19a7b1220dd1d58377d08288/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667"></code>
-<code><img height="40" width="40" src="https://camo.githubusercontent.com/a40a57becbe68bc3c482bdf1f209c8b091ee63f58173117037ac6aa5f96d4a72/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7675656a732d6f726967696e616c2d776f72646d61726b2e737667"></code>
-<code><img height="40" width="40" src="https://camo.githubusercontent.com/7a2b6137fa6818b1c85f86347a6b4a75ee52681d4a190c506df972e3c5459980/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667"></code>
-<code><img height="40" width="40" src="https://camo.githubusercontent.com/1f14c9c472b21cf8790a4fb6914be3a3181e957ecc2b397775f06a989d20cb37/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f637373332d6f726967696e616c2d776f72646d61726b2e737667"></code>
-<code><img height="40" width="40" src="https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667"></code>
-<code><img height="40" width="40" src="https://camo.githubusercontent.com/48c9507b62d83559dc3aef4f3951293b15ab2f5fa1029bdf6ec42f9fa062e775/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667"></code>
-<code><img height="40" width="40" src="https://camo.githubusercontent.com/d10e5aa8ba67f1eb109da4e98cd75adfa42df2e6019f8222cfa14c0088ac674d/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f707974686f6e2d6f726967696e616c2e737667"></code>
-<code><img height="40" width="40" src="https://camo.githubusercontent.com/67704b43eaee79d5db2e0ac9b288ca2eda7f8cdaaadce80ce77d44f8d08d3d95/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f632d6f726967696e616c2e737667"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/b153f8c2-f5cd-4dcf-a273-933d854d60e0"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/1c7d133f-5041-4740-b9a0-66622f1ce7e1"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/631558da-907d-44e9-b7cb-3feeebc20c87"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/5f0d6fcc-68a6-4043-970f-1305b029e5e0"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/c9949ae4-ae37-4c13-b8c5-816c6f321c51"></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/1a9797a6-09f3-4a8e-8bd7-7356c142c15e"></code>
+<code><img height="40" width="55" src="https://github.com/user-attachments/assets/3489de0c-7f10-499f-9410-383e31e6b30a"></code>
 
 <h2 align="center">Connect with Me</h2>
 
